@@ -5,8 +5,6 @@
 **Konversi Warna** adalah proses mengubah ruang warna citra dari satu model ke model lainnya. Contohnya: 
 - Dari RGB ke Grayscale.
 - Dari RGB ke HSV (Hue, Saturation, Value).
-  ![chessboard01](https://github.com/user-attachments/assets/1b28a860-e95f-4d9a-90ef-3519ba367883)
-
 **Tujuan**:
 - Mempermudah analisis citra (misalnya analisis fitur lebih sederhana dalam Grayscale).
 - Menyesuaikan format untuk algoritma tertentu.
