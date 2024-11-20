@@ -13,6 +13,14 @@
 ```python
 gray_image = cv2.cvtColor(color_image, cv2.COLOR_BGR2GRAY)
 ```
+Gambar Asli:
+
+![bidang](https://github.com/user-attachments/assets/75b14ae3-1b61-4bb3-8d36-17bf05730beb|width=100)
+
+Gambar Grayscale:
+
+![Screenshot 2024-11-20 215012](https://github.com/user-attachments/assets/e43ec371-735b-4b35-99ea-01b24c1e8081|width=100)
+
 - Mengubah citra berwarna (BGR) menjadi grayscale.
 ---
 
